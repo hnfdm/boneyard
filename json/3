@@ -1,0 +1,11 @@
+{
+  "name": "BoneYard InfoFi Pass #4",
+  "description": "Exclusive BoneYard InfoFi Pass granting priority access and special perks within the community.",
+  "image": "ipfs://bafkreiaeum2i47w3jzgzceut5ggyfp7ymvzrysdxla7y6gybmrqtnw47ey/?filename=4.PNG",
+  "attributes": [
+    {
+      "trait_type": "Access",
+      "value": "VerifiedYapper"
+    }
+  ]
+}
