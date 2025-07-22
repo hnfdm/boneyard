@@ -1,2 +1,4 @@
 nft » https://bafybeicsqascm7ua643dj7wimewebzzcgcwxwz4xxs33idzspcc3issrmu.ipfs.w3s.link/
 json » https://bafybeigj7gxg5cqwww7ytuv5hka75lxvveziw6pcheypfqu3uyjyrre66i.ipfs.w3s.link/
+
+platform >> storacha
